@@ -1,0 +1,10 @@
+com\graphhopper\http\ChangeGraphServletIT.class
+com\graphhopper\http\GraphHopperServletIT.class
+com\graphhopper\http\NearestServletIT.class
+com\graphhopper\http\GraphHopperDataflagEncoderSpatialRulesIT.class
+com\graphhopper\http\BaseServletTester.class
+com\graphhopper\http\GraphHopperLandmarksIT.class
+com\graphhopper\http\GraphHopperServletWithEleIT.class
+com\graphhopper\http\WebHelperTest.class
+com\graphhopper\http\IPFilterTest.class
+com\graphhopper\http\NearestServletWithEleIT.class

@@ -1,0 +1,32 @@
+{
+  "vehicles": [
+    {
+      "vehicle_id": "my_vehicle",
+      "start_address": {
+        "location_id": "Vaasa",
+        "lon":13.288271,
+        "lat": 52.513969
+      }
+    }
+  ],
+   "services": [
+    {
+      "id": "Rauhankatu",
+      "name": "Pcik up",
+      "address": {
+        "location_id": "Rauhankatu",
+        "lon": 13.238221,
+        "lat": 52.513369
+      }
+    },
+   {
+      "id": "Vuorikatu",
+      "name": "Delivery",
+      "address": {
+        "location_id": "Vuorikatu",
+        "lon": 13.228621,
+        "lat": 52.213369
+      }
+    }
+  ]
+}
